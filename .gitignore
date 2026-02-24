@@ -1,0 +1,14 @@
+﻿.env
+.venv/
+__pycache__/
+*.pyc
+*_raw.csv
+*_clean.csv
+*_mined.csv
+*_chart.png
+*_report.pdf
+financial_model.xlsx
+financial_model.png
+budget_variance.xlsx
+budget_variance.png
+.vscode/
